@@ -2,16 +2,6 @@
 
 ## Democratizing AI for Scientific Discovery
 
-OMIY is an advanced multi-agent AI platform that makes complex bioinformatics and scientific computing accessible to researchers of all technical backgrounds. By combining transparent AI reasoning, containerized research environments, and specialized scientific tools, OMIY accelerates discovery while maintaining reproducibility and scientific rigor.
-
-## 🚀 What Makes OMIY Unique
-
-- **Transparent AI Reasoning**: See exactly how AI agents think and make decisions through real-time thought streaming
-- **Specialized Scientific Tools**: Integrated BiOMNI toolkit with 50+ bioinformatics tools for genomics, proteomics, and molecular biology
-- **Reproducible Research**: Every analysis runs in isolated containers, eliminating "works on my machine" problems
-- **Multi-Agent Collaboration**: Coordinated AI specialists (Researcher, Coder, Analyzer) work together on complex scientific problems
-- **Real-Time Interaction**: Chat with AI agents that understand scientific context and provide live progress updates
-
 ## 🧬 Perfect For
 
 - **Bioinformatics Researchers**: Analyze genomic data, protein structures, and molecular pathways without coding expertise
@@ -37,12 +27,6 @@ OMIY is an advanced multi-agent AI platform that makes complex bioinformatics an
 - Literature mining
 - Statistical modeling
 - Data visualization
-
-### AI Agent Workflows
-- Automatic tool selection based on research goals
-- Multi-step analysis planning and execution
-- Error recovery and alternative strategies
-- Results validation and reporting
 
 ### Research Management
 - Project organization and versioning
